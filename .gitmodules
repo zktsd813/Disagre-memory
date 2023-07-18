@@ -1,0 +1,6 @@
+[submodule "TPP"]
+	path = TPP
+	url = https://github.com/zktsd813/TPP-5.15.git
+[submodule "QEMU"]
+	path = QEMU
+	url = https://github.com/qemu/qemu.git
